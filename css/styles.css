@@ -1,0 +1,10 @@
+img{
+  border-radius: 100%;
+  width: 300px;
+  height:auto;
+}
+
+.jumbotron{
+  text-align: center;
+  background: transparent;
+}
