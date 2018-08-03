@@ -46,6 +46,10 @@ background-image: repeating-linear-gradient(to right,#f6ffcc,#e0faff);
   text-align: center;
 }
 
+.last{
+  padding-bottom: 100px;
+}
+
 @media screen and (max-width: 998px) and (min-width: 320px){
   #travel{
     padding-top: 20px;
