@@ -8,3 +8,12 @@ img{
   text-align: center;
   background: transparent;
 }
+
+.date{
+  float: right;
+  color: red;
+}
+
+#experience{
+  padding-bottom: 20px;
+}
