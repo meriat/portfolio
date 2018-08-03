@@ -30,4 +30,13 @@ body{
 
 #me{
   text-align: center;
+  background-image: repeating-linear-gradient(to right,#fffbe0,#e0ffe6);
+}
+
+.panel-body{
+  background-image: repeating-radial-gradient(#ffe2e2,#e5ffe2);
+}
+
+#ed{
+background-image: repeating-linear-gradient(to right,#f6ffcc,#e0faff);
 }
