@@ -22,5 +22,12 @@ img{
 }
 
 body{
-  background-image: linear-gradient(lightblue,#f2b76a);
+  background-image: linear-gradient(#c2f4f9,#fcfcb2,#fccab3,#ffcede,#efceff);
+  font-weight: bold;
+  font-size: 18px;
+  font-family: 'Cutive Mono', monospace;
+}
+
+#me{
+  text-align: center;
 }
