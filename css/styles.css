@@ -17,8 +17,9 @@ img{
 #experience{
   padding-bottom: 20px;
 }
-.wiki{
-  padding-left: 40%;
+
+#travel{
+  padding-top: 100px;
 }
 
 body{
@@ -39,4 +40,8 @@ body{
 
 #ed{
 background-image: repeating-linear-gradient(to right,#f6ffcc,#e0faff);
+}
+
+.nav{
+  text-align: center;
 }
