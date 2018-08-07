@@ -21,6 +21,6 @@ _This will give a brief idea of where I am at in my career. This will help recru
 * _Git_
 
 ## Link to GitHub Pages
-meriathomas.github.io/portfolio
+meriat.github.io/portfolio
 
 Copyright (c) 2016 **_Meria J Thomas_**
